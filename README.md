@@ -8,6 +8,7 @@ This project was created for potential customers of KERR Fashion who are interes
 
 
 **Project Accomplishments**
+
 This project resulted in the creation of a visually appealing and responsive landing page for KERR Fashion. I utilized HTML, CSS, and JavaScript for the frontend to ensure a seamless user experience across devices. For the backend, we implemented a simple setup using Netlify for deployment.
 
 **Key Features:**
